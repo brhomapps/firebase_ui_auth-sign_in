@@ -40,6 +40,8 @@ Theming
 Navigation
 [https://github.com/firebase/flutterfire/blob/master/packages/firebase_ui_auth/doc/navigation.md]
 
+
+
 ![Screenshot_1669418702](https://user-images.githubusercontent.com/69330783/204066344-cccfa579-c3e1-4a29-aaa1-953ae1aca282.png)
 
 ![Screenshot_1669418722](https://user-images.githubusercontent.com/69330783/204066347-16facd66-18d5-4485-a957-3d621e9cf632.png)
