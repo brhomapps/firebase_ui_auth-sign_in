@@ -4,9 +4,12 @@ Firebase UI Auth New Package in Flutter for All of Methods login page - [ Email 
 Phone Sign in, Email link, Email verification, Sign in with Apple, Google Sign in, Twitter Login,
 Facebook Sign in
 
-# Video Tutorial - Youtube:
+# Video Tutorial - Youtube / Firebase UI Auth New Package in Flutter for All Methods of Login Page:
 
 [https://youtu.be/iLTXPP7UiSU]
+
+# Video Tutorial - Youtube / Email Verification with Firebase UI Auth Flutter:
+[https://youtu.be/5z4ulafhUD0]
 
 firebase_ui_auth:
 [https://pub.dev/packages/firebase_ui_auth]
