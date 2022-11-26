@@ -60,3 +60,17 @@ Navigation
 <img src="https://user-images.githubusercontent.com/69330783/204066357-8f793d53-c28f-4740-8838-80f4af5f47c1.png" width="300" height="500">
                                         /////////////////
 <img src="https://user-images.githubusercontent.com/69330783/204066332-0b593bf1-0f14-415a-b730-2e4095dff909.png" width="300" height="500">
+
+<img src="https://user-images.githubusercontent.com/69330783/204068825-811f37d1-2820-4a78-856a-34c8137cd934.png" width="300" height="500">
+
+# firebase conf
+![Screenshot (7)](https://user-images.githubusercontent.com/69330783/204068912-3d7de296-9fc0-4b01-961c-171a53cd38bc.png)
+
+![Screenshot (8)](https:![Screenshot (6)](https://user-images.githubusercontent.com/69330783/204068931-ac757461-dbbf-4272-aaab-de1a1ddb33e9.png)
+
+//user-images.githubusercontent.com/69330783/204068917-da0b9dc7-5ff7-448f-b65b-51c4b2858269.png)
+
+
+![Screenshot (4)](https://user-images.githubusercontent.com/69330783/204068921-8e2c193a-d893-4479-8fb8-35772516c379.png)
+
+![Screenshot (5)](https://user-images.githubusercontent.com/69330783/204068924-11acfbef-f068-4749-9356-bf667e878e61.png)
